@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Race
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Race()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ freePractice()
+comment4.params=
+comment4.target=void\ qualifying()
+comment5.params=
+comment5.target=void\ sundayRace()
+comment6.params=
+comment6.target=void\ multiplayer()
+comment7.params=lapTime
+comment7.target=void\ createTable(double)
+comment8.params=
+comment8.target=void\ gameOver()
+comment9.params=
+comment9.target=void\ placeBarriers()
+numComments=10
